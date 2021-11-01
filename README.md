@@ -10,4 +10,8 @@ I am an information technology consultant who has worked at the intersection of 
 - [x] [Project 4: Blockchain Tamper Proof Document Storage System](#project-4)
 - [x] [Project 5: Blockchain Corporate Remittance Application and Network](#project-5)
 
-## Github Repo Structure
+## Solidity Contracts
+- [x] [Project 5: Blockchain Corporate Remittance Application and Network](#project-5)
+
+## Blockchain JavaScript Projects
+
